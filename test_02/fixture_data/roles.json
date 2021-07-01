@@ -1,0 +1,1 @@
+[{"_id": {"$oid": "5dcae6bc48e8ebf29c28538f"}, "name": "role_3", "permission": [{"$oid": "5de0b333517c109162acf0f9"}], "enabled": true}, {"_id": {"$oid": "5f4f7e237e994ecc42dfcbd6"}, "name": "role_2", "permission": [{"$oid": "5de0b333517c109162acf0f9"}], "enabled": true}]
